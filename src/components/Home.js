@@ -39,12 +39,7 @@ export default function About() {
         
       </div>
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-         <a 
          
-         >
-          facebook
-
-         </a>
         </div>
     </section>
   );
